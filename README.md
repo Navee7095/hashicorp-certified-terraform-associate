@@ -68,7 +68,7 @@
 
 ## Are there any course requirements or prerequisites?
 - You must have an AWS Cloud account to follow with me for hands-on activities.
-- You don't need to have any basic knowledge of Terraform. Course will get started from very very basics of Terraform and take you to very advanced levels
+- You don't need to have any basic knowledge of Terraform. Course will get started from very very basics of Terraform and take you to very advanced levels  
 
 
 
